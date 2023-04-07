@@ -3,9 +3,9 @@
   "Msg": "", 
   "UpdateStatus": 1, 
   "VersionCode": 3,
-  "VersionName": "0.6.6",
+  "VersionName": "0.6.7",
   "ModifyContent": "",
-  "DownloadUrl": "https://github.com/leetomlee123/minio/raw/main/ts70.apk",
-  "ApkSize": 11655,
-  "ApkMd5": "f443af042c1f5c920ef4c705f8164b8c" 
+  "DownloadUrl": "https://github.com/leetomlee123/ts70_update/releases/download/0.6.7/app-arm64-v8a-release.apk",
+  "ApkSize": 10342,
+  "ApkMd5": "971011bb5b87243ff1f0d1840b4d676a" 
 }
